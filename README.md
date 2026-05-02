@@ -12,3 +12,9 @@
 ![题目预览](assets/string/字符移位加密（字符串处理）-001.png)
 
 [查看答案](assets/string/answer-001.png)
+
+## 排序算法
+
+| 算法 | 文件 | 描述 |
+|------|------|------|
+| 鸡尾酒排序 (Cocktail Sort) | [cocktail_sort.c](algorithms/sorting/cocktail_sort.c) | 双向冒泡排序，每轮遍历从两端同时进行
